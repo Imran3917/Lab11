@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class CarApp {
 	public static void main(String arg[]){
 		ArrayList<Car> carList = new ArrayList<>();
